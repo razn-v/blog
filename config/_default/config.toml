@@ -1,4 +1,4 @@
-baseURL = "https://razn-v.github.io/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Raznov's Blog"
 theme = "npq-hugo"
